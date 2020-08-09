@@ -5,7 +5,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#8257E5',
     justifyContent: 'center',
-    padding: 40,
+    padding: 30,
   },
 
   banner: {
@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
     fontFamily: 'Poppins_400Regular',
     fontSize: 20,
     lineHeight: 30,
-    marginTop: 80,
+    marginTop: 30,
   },
 
   titleBold: {
@@ -32,11 +32,11 @@ const styles = StyleSheet.create({
   },
 
   button: {
-    height: 150,
+    height: 120,
     width: '48%',
     backgroundColor: '#333',
     borderRadius: 8,
-    padding: 24,
+    padding: 18,
     justifyContent: 'space-between',
   },
 
@@ -51,12 +51,12 @@ const styles = StyleSheet.create({
   buttonText: {
     fontFamily: 'Archivo_700Bold',
     color: '#FFF',
-    fontSize: 20,
+    fontSize: 18,
   },
 
   totalConnections: {
     fontFamily: 'Poppins_400Regular',
-    color: 'D4C2FF',
+    color: '#D4C2FF',
     fontSize: 12,
     lineHeight: 20,
     maxWidth: 140,
